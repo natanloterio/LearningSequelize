@@ -4,7 +4,8 @@
   "description": "Project Project used to explore the capabilities of SequelizeJS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/natanloterio/LearningSequelize/issues"
   },
-  "homepage": "https://github.com/natanloterio/LearningSequelize#readme"
+  "homepage": "https://github.com/natanloterio/LearningSequelize#readme",
+  "dependencies": {
+    "sequelize": "^5.12.3"
+  }
 }
