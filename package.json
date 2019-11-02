@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/natanloterio/LearningSequelize#readme",
   "dependencies": {
-    "sequelize": "^5.12.3"
+    "sequelize": "^5.15.1"
   }
 }
